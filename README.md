@@ -72,10 +72,8 @@
 <!--<div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>-->
-
-<br/>
-
 <h3 align="center">
-<img https://readme-typing-svg.herokuapp.com/?
-    font-Righteous&size-25&center-true&vcenter-true&width-500&height-70&duration-4000&lines-Thanks+For+Visiting!✌️;+Shoot+me+a+message+on+Linkedin!;I+am+always+down+to+Connect+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Shoot+me+on+Linkdin;+I'm+Always+Down+to+Connect🤝;+Follow+Now!!!;" />
 </h3>
+
+
