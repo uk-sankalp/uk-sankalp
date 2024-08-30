@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on my **ProblemSolving Skills!..**
+ 🔭 I’m currently working on my **ProblemSolving Skills..**
  
  🌱 I’m currently learning **Adv Java and Java Frameworks**
 
