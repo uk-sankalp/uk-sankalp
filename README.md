@@ -28,14 +28,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
  <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />--> <!-- sqlite, safari, google-chrome are other good icon options   </a>-->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />   </a>-->
 
- <a href="https://leetcode.com/u/uk-sankalp/" target="_blank">
+<!-- <a href="https://leetcode.com/u/uk-sankalp/" target="_blank">
      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />  </a>
 
 <a href="https://www.geeksforgeeks.org/user/uksankalp007/" target=" _blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" target="_blank">
-  </a>
+  </a>-->
 </div>
 
  <hr/>
