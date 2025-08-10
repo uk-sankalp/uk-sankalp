@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uk-sankalp.uk-sankalp" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+U+K+Sankalp;+Hope+You+are+doing+well;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+U+K+Sankalp;+Hope+You+are+doing+well;" />
+
 </h1>
 
 <h3 align="center">A passionate software Engineer from India.</h3>
@@ -73,7 +74,8 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>-->
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Shoot+me+on+Linkdin;+I'm+Always+Down+to+Connect🤝;+Follow+Now!!!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&color=00FF00&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Let%27s+Build+Something+Awesome;Code%2C+Coffee+%26+Creativity;Hey+Cutie+Pie%2C+Are+You+Stalking+Me%3F;Anyways%2C+Lots+Of+Love+From+Me.%F0%9F%92%9A" />
+
 </h3>
 
 
