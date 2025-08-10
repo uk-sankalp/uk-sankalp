@@ -5,17 +5,19 @@
 
 </h1>
 
-<h3 align="center">A passionate software Engineer from India.</h3>
+<h3 align="center"><span style="color:#00FF00">A Passionate Software Engineer From India.</span></h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on my **ProblemSolving Skills..**
+ 🔭 I’m currently working on  **Backend Development..**
  
- 🌱 I’m currently learning **Adv Java and Java Frameworks**
+ 🧩 Love Solving **Complex Logic & DSA Challenges** 
 
-💬 Ask me about **Core Java, OOPs ** or anything 
+💬 Ask me about **Core Java, OOPs** or anything 
+
+📡 Exploring **API Design, Databases, and System Patterns** 
 
 ⚡ Fun fact **The term “Wi-Fi” doesn’t stand for anything**
 
@@ -35,7 +37,8 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" style="color:#00FF00; font-family:'Times New Roman', serif;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,javascript,postman" /><br>
