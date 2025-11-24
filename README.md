@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on  **Backend Development...**
  
- 🧩 Love Solving **Complex Logic & DSA Challenges** 
+ 🧩 Love Solving **Complex Logic & DSA Challenge** 
 
 💬 Ask me about **Core Java, OOPs** or anything 
 
