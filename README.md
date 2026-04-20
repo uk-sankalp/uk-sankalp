@@ -34,8 +34,17 @@
     <img src="https://img.shields.io/badge/DeskChat-%23000000.svg?style=for-the-badge&logo=&logoColor=white" target="_blank">
   </a>
     
- <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />   </a>-->
+ <a href="https://leetcode.com/u/uk-sankalp/" target=" _blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank">
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/Uk_Sankalp" target=" _blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/uksankalp007?tab=activity" target=" _blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" target="_blank">
+  </a>
 
 </div>
 
@@ -47,7 +56,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,javascript,postman" /><br>
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,postgresql,mongodb,java,python,vscode,git" />
-    <!-- <img src="https://skillicons.dev/icons?i=hibernate,docker,aws,maven,spring" /> <img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="SwaggerUI" title="Swagger"/> -->
+    <img src="https://skillicons.dev/icons?i=hibernate,docker,aws,maven,spring" /> <img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="SwaggerUI" title="Swagger"/>
 </div>
 
 <br/>
