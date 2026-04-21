@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uk-sankalp.uk-sankalp" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uk-sankalp.uk-sankalp" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+U+K+Sankalp;+Hope+You+are+doing+well;" />
@@ -97,4 +97,4 @@
 
 
 
-
+ -->
