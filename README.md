@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uk-sankalp.uk-sankalp" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uk-sankalp.uk-sankalp" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+U+K+Sankalp;+Hope+You+are+doing+well;" />
@@ -89,4 +89,4 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&color=00FF00&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Let%27s+Build+Something+Awesome;Code%2C+Coffee+%26+Creativity;Hey+Cutie+Pie%2C+Are+You+Stalking+Me%3F;Anyways%2C+Lots+Of+Love+From+Me.%F0%9F%92%9A" />
 
-</h3> -->
+</h3> 
