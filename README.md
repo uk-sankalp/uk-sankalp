@@ -47,7 +47,10 @@
   </a>
 
 </div>
-
+<!-- PASTE THIS EXACT LINE DIRECTLY BELOW THE BADGE BLOCK -->
+<p align="center">
+  Connect with me on LinkedIn: <b><a href="https://www.linkedin.com/in/uk-sankalp/">U K Sankalp (LinkedIn Profile)</a></b>
+</p>
  <hr/>
  
 <h2 align="center" style="color:#00FF00; font-family:'Times New Roman', serif;"> Languages-Frameworks-Tools </h2>
